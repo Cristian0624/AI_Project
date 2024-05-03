@@ -78,6 +78,7 @@ translation_dict = {
     }
 }
 
+#join the group chat with the telegram bot: https://t.me/+2MRoAgxZpdxmZmRi
 
 language = st.sidebar.selectbox("Select language:", ["Romanian", "English", "Russian"], index=1, key="Translation")
 
