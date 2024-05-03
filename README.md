@@ -8,7 +8,8 @@ Proiectul nostru este bazat pe Inteligența Artificială, adică pe Computer Vis
   2. Nu uitați să descărcați toate librăriile necesare pentru a rula aplicația
      - `Python 3.11.5`
      - `requirements.txt`
-  3. Pentru a rula aplicația folosiți comanda `streamlit run app.py`
+  3. Accesați linkul pentru a intra în grupul cu telegram botul care veți primi mesaje sub formă de poze    
+  4. Pentru a rula aplicația folosiți comanda `streamlit run app.py`
 
      
 ## Surse/Bibliografie
